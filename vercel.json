@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd tactic-app && pnpm install && pnpm build",
+  "outputDirectory": "tactic-app/dist",
+  "installCommand": "echo skip",
+  "framework": null
+}
